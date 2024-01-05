@@ -1,5 +1,5 @@
 import tkinter as tk
-import pypyodbc as odbc
+# import pypyodbc as odbc
 import datetime
 from tkinter import PhotoImage
 from PIL import Image, ImageTk
@@ -7,7 +7,6 @@ import customtkinter
 from tkinter import END
 import random
 import json
-from prompt_data_base import conn 
 from chatbot import bot_name , get_response 
 
 
@@ -159,10 +158,10 @@ class App(customtkinter.CTk):
         if not msg:
             return
 
-        bot_reply , probability , tag = get_response(msg)
+        '''bot_reply , probability , tag = get_response(msg)
         user_prompt = msg
         cursor = conn.cursor()
-        current_datetime = datetime.datetime.now()
+        current_datetime = datetime.datetime.now()'''
         
 
         self.entry.delete(0, END)
@@ -178,7 +177,7 @@ class App(customtkinter.CTk):
         self.text_box.insert(END, msg2)
         self.text_box.configure(state="disabled")
 
-        def insert_into(msg1 , msg2 , probability , tag):
+        '''def insert_into(msg1 , msg2 , probability , tag):
             try:
 
                 current_datetime = datetime.datetime.now()
@@ -190,14 +189,14 @@ class App(customtkinter.CTk):
                 cursor.execute(sql_query,(user_prompt , bot_reply , probability , tag, current_datetime ))
                 conn.commit()
                 print("Data inserted into the database successfully!")
-                
+
             except Exception as e:
                 print(f"Error inserting data into the database: {e}")
 
             finally:
                 cursor.close()
 
-        insert_into(msg ,bot_reply,probability, tag) 
+        insert_into(msg ,bot_reply,probability, tag)'''
 
         self.text_box.see(END) 
 

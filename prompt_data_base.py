@@ -1,4 +1,4 @@
-import pypyodbc as odbc
+'''import pypyodbc as odbc
 
 DRIVER_NAME = 'SQL Server' 
 SERVER_NAME = 'DESKTOP-UU6IQ1P\\SQLEXPRESS' 
@@ -12,6 +12,6 @@ connection_string = f"""
 """
 
 conn = odbc.connect(connection_string)
-cursor = conn.cursor()
+cursor = conn.cursor()'''
 
 
