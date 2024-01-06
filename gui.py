@@ -177,7 +177,7 @@ class App(customtkinter.CTk):
         self.text_box.insert(END, msg2)
         self.text_box.configure(state="disabled")
 
-        '''def insert_into(msg1 , msg2 , probability , tag):
+        def insert_into(msg1 , msg2 , probability , tag):
             try:
 
                 current_datetime = datetime.datetime.now()
@@ -196,7 +196,7 @@ class App(customtkinter.CTk):
             finally:
                 cursor.close()
 
-        insert_into(msg ,bot_reply,probability, tag)'''
+        insert_into(msg ,bot_reply,probability, tag)
 
         self.text_box.see(END) 
 
