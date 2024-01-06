@@ -5,7 +5,7 @@ import pypyodbc as odbc
 import torch.nn as nn
 import os
 import sys
-# from prompt_data_base import conn
+from prompt_data_base import conn
 
 from main import tokenize, bag_of_words
 from model import NeuralNet
