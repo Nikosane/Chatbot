@@ -364,12 +364,12 @@
     },
     {
       "tag":"Dr. Vaishali Parimal Kothiya",
-      "patterns":["Dr. Vaishali Parimal Kothiya","tell me about vaishali parimal kothiya","who is parimal kothiya"],
+      "patterns":["Dr. Vaishali Parimal Kothiya","tell me about vaishali parimal kothiya","who is parimal kothiya","tell me about vaishali maam","can you tell me about vaishali maam","vaishali maam","information about vaishali maam"],
       "responses":["Name : Dr. Vaishali Parimal Kothiya\nDesignation : Dean - Research, Innovation, Incubation & IPR Cell \nQualification : Ph.D, MH-SET, M.Phil, B.Ed, M.Com\nArea of Specialization : Commerce, Management & Marketing\nTotal Experience : 13 years"]
     },
     {
       "tag":"Mrs. Moumita Nath",
-      "patterns":["Mrs. Moumita Nath","tell me about Moumita nath","who is moumita nath"],
+      "patterns":["Mrs. Moumita Nath","tell me about Moumita nath","who is moumita nath","tell me about moumita","who is moumita","can you tell me about moumita maam"],
       "responses":["Name : Mrs. Moumita Nath\nDesignation :Assistant Professor and Coordinator\nQualification : UGC NET (Mass Communication & Journalism), MA Mass Communication & Journalism, Bachelors in English Literature\nArea of Specialization : Creative Content Writing, Corporate Communication, Advertising, Journalism, Media Management\nTotal Experience : Teaching 2 years"]
     },
     {
