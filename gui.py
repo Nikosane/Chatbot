@@ -158,10 +158,10 @@ class App(customtkinter.CTk):
         if not msg:
             return
 
-        '''bot_reply , probability , tag = get_response(msg)
+        bot_reply , probability , tag = get_response(msg)
         user_prompt = msg
         cursor = conn.cursor()
-        current_datetime = datetime.datetime.now()'''
+        current_datetime = datetime.datetime.now()
         
 
         self.entry.delete(0, END)
