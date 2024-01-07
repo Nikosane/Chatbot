@@ -1,7 +1,7 @@
 import random
 import json
 import torch
-import pypyodbc as odbc
+# import pypyodbc as odbc
 import torch.nn as nn
 import os
 import sys
