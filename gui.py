@@ -128,10 +128,7 @@ class App(customtkinter.CTk):
         self.img_label5 = tk.Label(self, image=self.img5,bg="black")
         self.img_label5.place(x=860, y=10)
 
-        # self.image7_path = r"D:\website\friends.png"
-        # self.img7 = PhotoImage(file=self.image7_path, format="png") 
-        # self.img_label7 = tk.Label(self, image=self.img7,bg="black")
-        # self.img_label7.place(x=13, y=450)
+        
 
         self.image6_path = r"D:\website\UNI.png"
         self.img6 = PhotoImage(file=self.image6_path, format="png") 
