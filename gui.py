@@ -1,5 +1,5 @@
 import tkinter as tk
-import pypyodbc as odbc
+#import pypyodbc as odbc
 import datetime
 from tkinter import PhotoImage
 from PIL import Image, ImageTk
