@@ -105,3 +105,5 @@ if __name__ == '__main__':
     torch.save(data, FILE)
 
     print(f'training complete. file saved to {FILE}')
+
+# new model needs to be trained 7th jan 2024
