@@ -58,7 +58,7 @@ class App(customtkinter.CTk):
         self.img_label2.place(x=220,y=1)
 
         
-        
+
 
 
         self.image3_path = "pngegg.png"
