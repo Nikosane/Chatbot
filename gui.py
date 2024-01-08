@@ -24,7 +24,7 @@ class App(customtkinter.CTk):
         self.frame1 = tk.Frame(self,bg='#343541')
         self.frame1.place(relwidth=1, relheight=1)
 
-        self.background_image_path = 'D:\website\gradient.png'
+        self.background_image_path = 'gradient.png'
         self.background_image = PhotoImage(file=self.background_image_path)
         self.background_label = tk.Label(master = self.frame1, image=self.background_image)
         self.background_label.place(relwidth=1, relheight=1)
@@ -47,12 +47,12 @@ class App(customtkinter.CTk):
         self.second_frame.pack(padx=8, pady=8)
 
         # image(slrtd logo)
-        self.image_path = "D:\website\slrtdc_logo.png"
+        self.image_path = "slrtdc_logo.png"
         self.img1 = PhotoImage(file=self.image_path,format="png")
         self.img_label = tk.Label(master=self.second_frame, image=self.img1,bg="black")
         self.img_label.pack()
 
-        self.image2_path = 'D:\ChatBot\image.png'
+        self.image2_path = 'image.png'
         self.img2 = PhotoImage(file=self.image2_path, format="png") 
         self.img_label2 = tk.Label(self, image=self.img2,bg="black")
         self.img_label2.place(x=220,y=1)
@@ -64,7 +64,7 @@ class App(customtkinter.CTk):
         # self.img_label6.place(x = 10, y = 200)
 
 
-        self.image3_path = "D:\website\pngegg.png"
+        self.image3_path = "pngegg.png"
         self.img3 = PhotoImage(file=self.image3_path, format="png") 
         self.img_label3 = tk.Label(master=self.frame, image=self.img3,bg="black")
         # self.img_label3.place(x=5, y=400)
@@ -118,19 +118,19 @@ class App(customtkinter.CTk):
         self.send_button.bind("<Enter>", self.on_enter)
         self.send_button.bind("<Leave>", self.on_leave)
 
-        self.rectfier = r"D:\website\Brain.png"
+        self.rectfier = r"Brain.png"
         self.img4 = PhotoImage(file=self.rectfier, format="png") 
         self.img4_label = tk.Label(self, image=self.img4,bg="black")
         self.img4_label.place(x = 693, y = 416)
 
-        self.image5_path = r"D:\website\NLP.png"
+        self.image5_path = r"NLP.png"
         self.img5 = PhotoImage(file=self.image5_path, format="png")
         self.img_label5 = tk.Label(self, image=self.img5,bg="black")
         self.img_label5.place(x=860, y=10)
 
         
 
-        self.image6_path = r"D:\website\UNI.png"
+        self.image6_path = r"UNI.png"
         self.img6 = PhotoImage(file=self.image6_path, format="png") 
         self.img_label6 = tk.Label(self, image=self.img6,bg="black")
         self.img_label6.place(x=29, y=200)
