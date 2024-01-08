@@ -344,17 +344,17 @@
     },
     {
       "tag":"Mr. Ajay Ramprakash Yadav",
-      "patterns":["Mr. Ajay Ramprakash Yadav","tell me about ajay ramprakash yadav"," who is ajay ramprakash yadav"],
+      "patterns":["Mr. Ajay Ramprakash Yadav","tell me about ajay ramprakash yadav"," who is ajay ramprakash yadav","tell me about ajay","can you give me information about ajay","can you give me information about ramprakash","ajay ramprakash"],
       "responses":["Name : Mr. Ajay Ramprakash Yadav\nDesignation : Assistant Professor\nQualification : B.A (Political Science), M.A (Communication & Journalism), M.A (Political Science), M.A (Marathi Literature)\nArea of Specialization : Journalism, Mass Media\nTotal Experience : 7 years (6 years in Print Media), 1 year in teaching"]
     },
     {
       "tag":"Mrs. Akanksha Asar",
-      "patterns":["Mrs. Akanksha Asar","tell me about akanksha asar","who is akanksha asar"],
+      "patterns":["Mrs. Akanksha Asar","tell me about akanksha asar","who is akanksha asar","can you give me information about akansha maam","give me information about akansha","akansha asar"],
       "responses":["Name : Mrs. Akanksha Asar\nDesignation :Assistant Professor\nQualification : M.Phil, M.Com, Ph.D(pursuing)\nArea of Specialization : Finance\nTotal Experience : 9 Years"]
     },
     {
       "tag":"Mrs. Sonal Shah",
-      "patterns":["Mrs. Sonal Shah","tell me about sonal shah","who is sonal shah"],
+      "patterns":["Mrs. Sonal Shah","tell me about sonal shah","who is sonal shah","tell me about Sonal maam","can you me information about sonal maam","who is sonal maam","give me information about sonal"],
       "responses":["Name : Mrs. Sonal Shah\nDesignation : Assistant Professor\nQualification : MH SET (Economics), MA in Economics, Bachelors in Mass Media (BMM)\nArea of Specialization : Micro Economics, Macro Economics, Indian Economy\nTotal Experience : Teaching 1 Year"]
     },
     {
