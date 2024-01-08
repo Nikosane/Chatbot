@@ -58,10 +58,7 @@ class App(customtkinter.CTk):
         self.img_label2.place(x=220,y=1)
 
         
-        # self.uni = "D:\website\UNI.png"
-        # self.img6 = PhotoImage(file=self.uni, format="png") 
-        # self.img_label6 = tk.Label(master=self.frame, image=self.img6,bg="black")
-        # self.img_label6.place(x = 10, y = 200)
+        
 
 
         self.image3_path = "pngegg.png"
@@ -157,7 +154,7 @@ class App(customtkinter.CTk):
 
         bot_reply , probability , tag = get_response(msg)
         user_prompt = msg
-        cursor = conn.cursor()
+        # cursor = conn.cursor()
         current_datetime = datetime.datetime.now()
         
 
