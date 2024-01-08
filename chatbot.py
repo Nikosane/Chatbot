@@ -13,10 +13,10 @@ from model import NeuralNet
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 
-with open("D:\website\intents.json",'r') as f:
+with open("intents.json",'r') as f:
     intents = json.load(f)
 
-FILE = "D:\website\data.pth"
+FILE = "data.pth"
 data = torch.load(FILE)
 
 input_size = data["input_size"]
