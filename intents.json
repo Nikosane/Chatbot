@@ -131,7 +131,7 @@
         "Undergraduate courses available",
         "List me the courses available for undergraduate students",
         "I want to know about the courses for undergraduate students",
-        "UG course"
+        "UG course","tell me about the undergraduate courses"
       ],
       "responses": [
         "B.Com.\nB.A.F.\nB.M.S.\nB.B.I.\nB.A.M.M.C.\nB.Sc.I.T.\nB.Sc.C.S.\nB.Sc.H.S.\nB.Sc. Data Science\nB.Sc. Actuarial Science\nB.Sc. Aviation"
