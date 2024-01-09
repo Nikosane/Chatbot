@@ -68,13 +68,6 @@ def get_response(msg):
 
 
 
-    # else:
-    #     print("Low confidence prediction")
-    #     response = "I'm not sure what you're asking. Can you please rephrase?"
-    #     print(f"Bot Response: {response}")
-    #     return response , prob.item() , tag
-
-
 
 
 
