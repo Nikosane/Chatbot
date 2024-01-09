@@ -198,4 +198,4 @@ class App(customtkinter.CTk):
 if __name__ == '__main__':
     app = App()
     app.mainloop()
-# change in the gui for the approval is remaining 7th jan 2024
+# new  data.pth added to the model 9th jan 2024
