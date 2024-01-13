@@ -92,7 +92,7 @@
 
     {
      "tag": "LR Tiwari",
-      "patterns": ["who is LR Tiwari","tell me about LR tiwari","LR tiwari"],
+      "patterns": ["who is LR Tiwari","tell me about LR tiwari","LR tiwari","tell me about lr tiwari sir","tell me about lalan tiwari","lalan tiwari","give me information about lalan tiwari"],
       "responses": ["Shri L. R. Tiwari\nChairman - Rahul Education"]
     },
 
@@ -131,7 +131,10 @@
         "Undergraduate courses available",
         "List me the courses available for undergraduate students",
         "I want to know about the courses for undergraduate students",
-        "UG course","tell me about the undergraduate courses"
+        "UG course","tell me about the undergraduate courses",
+        "give me information undergraduate courses",
+        "can you tell me about undergaduate courses",
+        "what about undergraduate course"
       ],
       "responses": [
         "B.Com.\nB.A.F.\nB.M.S.\nB.B.I.\nB.A.M.M.C.\nB.Sc.I.T.\nB.Sc.C.S.\nB.Sc.H.S.\nB.Sc. Data Science\nB.Sc. Actuarial Science\nB.Sc. Aviation"
