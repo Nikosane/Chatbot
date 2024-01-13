@@ -59,8 +59,8 @@ if __name__ == '__main__':
             return self.n_samples
 
 
-    batch_size = 123
-    hidden_size = 123
+    batch_size = 300
+    hidden_size = 300
     output_size = new_output_size
     input_size = len(x_train[0])
     learning_rate = 0.001
