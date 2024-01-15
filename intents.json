@@ -430,7 +430,10 @@
 
     {
       "tag":"Dr. Sanjay G. Mishra",
-      "patterns":["tell me about the principal of the college ","who is the principal of the college","who is sanjay mishra ","tell me about samjay mishra ","sanjay mishra"],
+      "patterns":["tell me about the principal of the college ","who is the principal of the college","who is sanjay mishra ","tell me about samjay mishra ","sanjay mishra",
+      "can you give me information about sanjay mishra",
+      "give me information about sanjay mishra"
+      ],
       "responses":["It is my honor to introduce Dr. Sanjay Mishra, who serves as the Principal at Shree L. R. Tiwari Degree College of Arts, Commerce, and Science. Dr. Mishra brings a wealth of academic knowledge and experience to our institution.\nContact Information:\nEmail Address: principal@slrtdc.in\nAcademic Qualifications:\nPhD (Management), Tilak Maharashtra Vidyapeeth, Since 2019\nM.B.A. (H.R.), Tilak Maharashtra Vidyapeeth, Nov 2010\nM.A. (Eng. Lit.), University of Mumbai, Apr 2009\nM.Com., University of Mumbai, Oct 1998\nL.L.B., University of Mumbai, July 2023 (Anticipated)\nB.Ed., University of Mumbai, Apr 2008\nB.Com., University of Mumbai, Apr 1996\nAdditional Qualifications:\nCAE (Certificate in Advanced English), Cambridge Assessment English, April 2018\nMS-CIT (Maharashtra State Certificate in Information Technology), Dec 2018\nDiploma in Computer Management, DataPro Infoworld Pvt. Ltd., Dec 1996"]
     }
     ]
