@@ -424,7 +424,10 @@
     },
     {
       "tag":"Training and placement",
-      "patterns":["tell me about the training and placement of slrtdc","tell me about the tarining and placement cell of the college","training and placement cell","can u give me details about traininga nd placement cell ","information about training and placement cell","placement cell","can you tell me about the training and placement","what about training and placement in slrtdc","training and placement in this college"],
+      "patterns":["tell me about the training and placement of slrtdc","tell me about the tarining and placement cell of the college","training and placement cell","can u give me details about traininga nd placement cell ","information about training and placement cell","placement cell","can you tell me about the training and placement","what about training and placement in slrtdc","training and placement in this college","give me information about the training and the placement cell of the college",
+      "can you give me information about the placement of the college",
+      "can you give me detail about the placement"
+      ],
       "responses":["I hope this message finds you well. We are pleased to inform you about our upcoming initiatives aimed at enhancing your professional skills and providing valuable job placement opportunities:\nPersonality Development and Digital Skill Program:\nDate: 08th Aug, 2023\nPlacement Drive 2022-2023:\nDate: 24th March, 2023\nOrientation Session on JIO SAT Program:\nDate: 16th Feb, 2023\nBanking and Insurance Practical Learning Course:\nDate: 16th Feb, 2023\nNISM FinX Career Enhancement:\nDate: 30th Jan, 2023\nOrientation on Wealth Creation:\nDate: 16th Jan, 2023\nCorporate Etiquette and Job Placement:\nDate: 22nd Aug, 2022\nSoft Skills, Grooming & Etiquette:\nDate: 3rd Aug, 2022\nSkill Enhancement Training Program by Global Talent Track Pvt. Ltd.:\nDate: 22nd Sept, 2022\nThese sessions aim to develop your personality, digital skills, and offer practical learning experiences in banking, insurance, finance, and more. Additionally, they provide valuable insights into corporate etiquette and grooming, contributing to your overall professional growth.\n\nCopy the link given below to access more information\nhttps://slrtdc.in/about-us/infrastructure/t-p-activities/"]
     },
 
