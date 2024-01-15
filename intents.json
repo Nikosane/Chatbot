@@ -399,7 +399,10 @@
     },
     {
       "tag":"NPTEL registration",
-      "patterns":["how can i register for nptel","steps to register for nptel","nptel registration","how to register courses in nptel","steps to register in nptel","apply for nptel","how can i apply to nptel"],
+      "patterns":["how can i register for nptel","steps to register for nptel","nptel registration","how to register courses in nptel","steps to register in nptel","apply for nptel","how can i apply to nptel","can you give me information nptel ",
+      "give me information about nptel",
+      "can you tell me about nptel"
+      ],
       "responses":["To apply for NPTEL courses:\nVisit the NPTEL website [https://nptel.ac.in/].\nCreate an account or log in.\nBrowse and select a course.\nEnroll in the course and fill out the registration form.\nPay any applicable fees (if required).\nAccess course content and participate in assignments.\nOptionally, take a certification exam.\nReceive a certification upon successful completion."]
     },
     {
