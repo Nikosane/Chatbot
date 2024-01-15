@@ -92,7 +92,8 @@
 
     {
      "tag": "LR Tiwari",
-      "patterns": ["who is LR Tiwari","tell me about LR tiwari","LR tiwari","tell me about lr tiwari sir","tell me about lalan tiwari","lalan tiwari","give me information about lalan tiwari"],
+      "patterns": ["who is LR Tiwari","tell me about LR tiwari","LR tiwari","tell me about lr tiwari sir","tell me about lalan tiwari","lalan tiwari","give me information about lalan tiwari",
+      "can you give me information about lr tiwari"],
       "responses": ["Shri L. R. Tiwari\nChairman - Rahul Education"]
     },
 
