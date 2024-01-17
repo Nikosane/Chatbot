@@ -208,7 +208,8 @@
       "tag": "absentee",
       "patterns": ["what should i do if want to take a leave"," what are the formalities required for taking a leave "," i was unable to attend the lectures "," what should i do if i was absent for a particular or regular lectures","i was absent","i missed my lectures","what about being absent",
       "can you tell me what to do if i was absent for the lecture",
-      "what if i was about to take a leave"
+      "what if i was about to take a leave",
+      "i want to take a leave"
       ],
       "responses": ["1: On medical ground needs to:\na: Submit an application addressed to the Principal seeking grant of leave on medical grounds along with a medical certificate issued by a registered medical practitioner for the period of absence. The application should be submitted to the Principal, within four days of resuming classes.\n2: For Participation and representation of the college in events:\na: Such as Sports/ Cultural Events, should submit an application with evidence of participation and signature of staff-in charge of the activity\n3: For any other reason:\na: Should submit an application stating the reason for absence with supporting documents if any for consideration of condonation of absence."]
     },
