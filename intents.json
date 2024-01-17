@@ -192,7 +192,11 @@
 
     {
       "tag": "application form",
-      "patterns": ["what are the documents needed for filling the application form","documents needed for submitting form application","documents for application form","documents needed for filling the form ","documents needed for application form","documents required"],
+      "patterns": ["what are the documents needed for filling the application form","documents needed for submitting form application","documents for application form","documents needed for filling the form ","documents needed for application form","documents required",
+      "can you tell me about the application",
+      "can you give me information abou the application form"
+      
+      ],
       "responses": [" 1] At the time of admission board or the central board of secondary Education OR the Indian School certificate Examination or anything equivalent examination will be admitted on merit with production of\n 2] Original Mark sheet for H. S. C examination with a photocopy thereof.\n3]   College/school Leaving certificates or NOC\n4]   Provisional/ Final Eligibility Certificate wherever necessary, and\n5] Any other certificate s that are deemed university.\n6] An ex-students of the college who had left the college to do the same or any other Course outside, and now desires to seek admission to the first year course in Art's/science/commerce after passing the HSC examination from Mumbai Divisional Board, Will be treated as a new / fresh students (I.e. he will not been titled to the benefits of continuation in the college.)\n7] A student who passed the HSC examination in the science stream with minimum 2 of the subjects from the arts/science/Commerce group will be considered for admission to F. Y. B. A/F.Y.B.Com. as per the provision of the Mumbai University Certificate.\n8] The application of an overseas students for admission to the college Will be entertained only if it is forwarded with the recommendation letter of the Indian Diplomatic Mission in his/her country. Such application must be accompanied by\n    a) The final school/college certificates examination,\n    b) A testimonial from the principal of the school/college regarding the character of the applicant, and\n    c) A provisional eligibility certificate issued by the University of Mumbai."]
     },
 
