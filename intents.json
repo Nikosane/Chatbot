@@ -252,7 +252,11 @@
     },
     {
       "tag":"BSCIT Bachelor of Science in Information Technology ",
-      "patterns":["tell me about bsc it","tell me about it","tell be about bachelors in information and technology","seats available for bscit","how many seats does the college provide for bscit ","i am intrested in bscit","can you share more about bsc it ","information and technology ","available seats for information and technology"],
+      "patterns":["tell me about bsc it","tell me about it","tell be about bachelors in information and technology","seats available for bscit","how many seats does the college provide for bscit ","i am intrested in bscit","can you share more about bsc it ","information and technology ","available seats for information and technology",
+      "can you give me information about bcs it"
+      ,"can you tell me about bcs it"
+      
+      ],
       "responses":["Course Intake : 60 Seats\nCourse Duration : 3 years (6 Semesters)\nA graduate with a B.Sc. in Information Technology degree qualifies for good chances in a range of  jobs in many different industries, including the public, commercial, and non-profit ones.\n\n\nCopy the link below to access more information and admission related procedure\n\nF.Y B.Sc. IT SEM I & II : https://drive.google.com/file/d/1jPTUN4-wqpZ8bYlN995QNYDPDCC4-Lwd/view \nS.Y B.Sc. IT SEM III & IV : https://drive.google.com/file/d/1lsZ8NQF17z-OeEKnT0kPKKpDtrNVjOue/view \nT.Y B.Sc. IT -SEM-V-VI : https://drive.google.com/file/d/1Gy8W2rao2e_tNr4tGnd6oo04KYt5NRFB/view"]
     },
     {
